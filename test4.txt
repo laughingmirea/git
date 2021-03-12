@@ -1,1 +1,8 @@
 this is test 4
+<<<<<<< HEAD
+commit 3
+commit 4
+commit 5 
+=======
+commit 3
+>>>>>>> parent of 7cf9d36 (add commit 4 to test4.txt)
